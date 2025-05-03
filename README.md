@@ -140,8 +140,4 @@ MIT License. Feel free to use and modify.
 
 ```
 
----
-
-Would you like me to generate a minimal working version of the Node.js + WebSocket + React + Ollama code in the same folder structure too?
-```
  
