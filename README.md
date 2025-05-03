@@ -35,7 +35,7 @@ chatbot-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chatbot-app.git
+git clone https://github.com/Abhinav7312/chatbot-app.git
 cd chatbot-app
 ````
 
@@ -121,17 +121,9 @@ Create a `.env` file at the root or in `/server`:
 * [ ] Stream token-based responses from Ollama
 * [ ] Add user authentication (JWT or OAuth)
 * [ ] Store chat history in a database
-* [ ] Deploy to Vercel / Railway / Fly.io
 * [ ] Mobile-friendly UI
 
 ---
-
-## 📝 License
-
-MIT License. Feel free to use and modify.
-
----
-
 ## 🙌 Acknowledgments
 
 * [Ollama](https://ollama.com/) — Local LLMs made easy
